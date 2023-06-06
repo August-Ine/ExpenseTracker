@@ -58,9 +58,3 @@ Contributions to the ExpenseTracker project are welcome. If you would like to co
 3. Make the necessary changes and commit them: `git commit -m "Add my contribution"`.
 4. Push your changes to your forked repository: `git push origin my-contribution`.
 5. Open a pull request in this repository, describing your changes.
-
-Please ensure that your contributions adhere to the [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-The ExpenseTracker application is open source and available under the [MIT License](LICENSE).
